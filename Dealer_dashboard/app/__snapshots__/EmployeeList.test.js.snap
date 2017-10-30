@@ -1,0 +1,897 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`load values from json 1`] = `
+<div
+  className="table"
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "#1E90FF",
+        "padding": "20px",
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "#87CEFA",
+        "padding": "10px",
+        "textAlign": "center",
+      }
+    }
+  >
+    <h1>
+      Employees
+    </h1>
+  </div>
+  <br />
+  <br />
+  <br />
+  <div
+    className="container-fiuld"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-1"
+      />
+      <div
+        className="col-sm-4"
+        id="abc"
+      >
+        <div
+          style={
+            Object {
+              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+              "backgroundColor": "#ffffff",
+              "borderRadius": 2,
+              "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+                     0 1px 4px rgba(0, 0, 0, 0.12)",
+              "boxSizing": "border-box",
+              "color": "rgba(0, 0, 0, 0.87)",
+              "fontFamily": "Roboto, sans-serif",
+              "muiPrepared": true,
+              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "zIndex": 1,
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "paddingBottom": 0,
+              }
+            }
+          >
+            <fieldset>
+              <legend>
+                <h4
+                  className="list-group-item disabled"
+                >
+                  List Of Employees
+                </h4>
+              </legend>
+              <br />
+              <div
+                className="col-sm-1"
+              />
+              <div
+                className="col-sm-9"
+              >
+                <form>
+                  <form />
+                </form>
+              </div>
+              <div
+                className="col-sm-2"
+              />
+            </fieldset>
+            <br />
+            <fieldset>
+              <fieldset>
+                <legend />
+                <div
+                  className="col-sm-1"
+                />
+                <a
+                  href="mm"
+                  onClick=""
+                >
+                  <span
+                    className="glyphicon glyphicon-user"
+                    onClick={[Function]}
+                  />
+                </a>
+              </fieldset>
+            </fieldset>
+            <br />
+          </div>
+        </div>
+      </div>
+      <div
+        className="col-sm-1"
+      />
+      <div
+        className="col-sm-4"
+        id="xyz"
+      >
+        <div
+          style={
+            Object {
+              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+              "backgroundColor": "#ffffff",
+              "borderRadius": 2,
+              "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+                     0 1px 4px rgba(0, 0, 0, 0.12)",
+              "boxSizing": "border-box",
+              "color": "rgba(0, 0, 0, 0.87)",
+              "fontFamily": "Roboto, sans-serif",
+              "muiPrepared": true,
+              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "zIndex": 1,
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "paddingBottom": 0,
+              }
+            }
+          >
+            <fieldset
+              style={Object {}}
+            >
+              <legend>
+                <h4
+                  className="list-group-item disabled"
+                >
+                  Add Employee Details
+                </h4>
+              </legend>
+              <br />
+              <div
+                className="row"
+              >
+                <div
+                  className="col-sm-1"
+                />
+                <div
+                  className="col-sm-10"
+                >
+                  <form>
+                    <form>
+                      <div
+                        className={undefined}
+                        style={
+                          Object {
+                            "backgroundColor": "transparent",
+                            "cursor": "auto",
+                            "display": "inline-block",
+                            "fontFamily": "Roboto, sans-serif",
+                            "fontSize": 16,
+                            "height": 72,
+                            "lineHeight": "24px",
+                            "muiPrepared": true,
+                            "position": "relative",
+                            "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                            "width": 256,
+                          }
+                        }
+                      >
+                        <label
+                          className={undefined}
+                          htmlFor="name"
+                          onTouchTap={undefined}
+                          style={
+                            Object {
+                              "color": "rgba(0, 0, 0, 0.3)",
+                              "lineHeight": "22px",
+                              "muiPrepared": true,
+                              "pointerEvents": "none",
+                              "position": "absolute",
+                              "top": 38,
+                              "transform": "scale(1) translate(0, 0)",
+                              "transformOrigin": "left top",
+                              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                              "userSelect": "none",
+                              "zIndex": 1,
+                            }
+                          }
+                        >
+                          Name
+                        </label>
+                        <input
+                          disabled={false}
+                          id="name"
+                          name="name"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          style={
+                            Object {
+                              "WebkitOpacity": 1,
+                              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                              "appearance": "textfield",
+                              "backgroundColor": "rgba(0,0,0,0)",
+                              "border": "none",
+                              "boxSizing": "border-box",
+                              "color": "rgba(0, 0, 0, 0.87)",
+                              "cursor": "inherit",
+                              "font": "inherit",
+                              "height": "100%",
+                              "marginTop": 14,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "width": "100%",
+                            }
+                          }
+                          type="text"
+                          value={undefined}
+                        />
+                        <div>
+                          <hr
+                            aria-hidden="true"
+                            style={
+                              Object {
+                                "borderBottomStyle": "solid",
+                                "borderBottomWidth": 1,
+                                "borderColor": "#e0e0e0",
+                                "borderLeft": "none",
+                                "borderRight": "none",
+                                "borderTop": "none",
+                                "bottom": 8,
+                                "boxSizing": "content-box",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "position": "absolute",
+                                "width": "100%",
+                              }
+                            }
+                          />
+                          <hr
+                            aria-hidden="true"
+                            style={
+                              Object {
+                                "borderBottomStyle": "solid",
+                                "borderBottomWidth": 2,
+                                "borderColor": "#00bcd4",
+                                "borderLeft": "none",
+                                "borderRight": "none",
+                                "borderTop": "none",
+                                "bottom": 8,
+                                "boxSizing": "content-box",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "position": "absolute",
+                                "transform": "scaleX(0)",
+                                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                "width": "100%",
+                              }
+                            }
+                          />
+                        </div>
+                      </div>
+                      <br />
+                      <div
+                        className={undefined}
+                        style={
+                          Object {
+                            "backgroundColor": "transparent",
+                            "cursor": "auto",
+                            "display": "inline-block",
+                            "fontFamily": "Roboto, sans-serif",
+                            "fontSize": 16,
+                            "height": 72,
+                            "lineHeight": "24px",
+                            "muiPrepared": true,
+                            "position": "relative",
+                            "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                            "width": 256,
+                          }
+                        }
+                      >
+                        <label
+                          className={undefined}
+                          htmlFor="bloodgroup-undefined-BloodGroup-33063"
+                          onTouchTap={undefined}
+                          style={
+                            Object {
+                              "color": "rgba(0, 0, 0, 0.3)",
+                              "lineHeight": "22px",
+                              "muiPrepared": true,
+                              "pointerEvents": "none",
+                              "position": "absolute",
+                              "top": 38,
+                              "transform": "scale(1) translate(0, 0)",
+                              "transformOrigin": "left top",
+                              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                              "userSelect": "none",
+                              "zIndex": 1,
+                            }
+                          }
+                        >
+                          Blood Group
+                        </label>
+                        <input
+                          disabled={false}
+                          id="bloodgroup-undefined-BloodGroup-33063"
+                          name="bloodgroup"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          style={
+                            Object {
+                              "WebkitOpacity": 1,
+                              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                              "appearance": "textfield",
+                              "backgroundColor": "rgba(0,0,0,0)",
+                              "border": "none",
+                              "boxSizing": "border-box",
+                              "color": "rgba(0, 0, 0, 0.87)",
+                              "cursor": "inherit",
+                              "font": "inherit",
+                              "height": "100%",
+                              "marginTop": 14,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "width": "100%",
+                            }
+                          }
+                          type="text"
+                          value={undefined}
+                        />
+                        <div>
+                          <hr
+                            aria-hidden="true"
+                            style={
+                              Object {
+                                "borderBottomStyle": "solid",
+                                "borderBottomWidth": 1,
+                                "borderColor": "#e0e0e0",
+                                "borderLeft": "none",
+                                "borderRight": "none",
+                                "borderTop": "none",
+                                "bottom": 8,
+                                "boxSizing": "content-box",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "position": "absolute",
+                                "width": "100%",
+                              }
+                            }
+                          />
+                          <hr
+                            aria-hidden="true"
+                            style={
+                              Object {
+                                "borderBottomStyle": "solid",
+                                "borderBottomWidth": 2,
+                                "borderColor": "#00bcd4",
+                                "borderLeft": "none",
+                                "borderRight": "none",
+                                "borderTop": "none",
+                                "bottom": 8,
+                                "boxSizing": "content-box",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "position": "absolute",
+                                "transform": "scaleX(0)",
+                                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                "width": "100%",
+                              }
+                            }
+                          />
+                        </div>
+                      </div>
+                      <br />
+                      <div
+                        className={undefined}
+                        style={
+                          Object {
+                            "backgroundColor": "transparent",
+                            "cursor": "auto",
+                            "display": "inline-block",
+                            "fontFamily": "Roboto, sans-serif",
+                            "fontSize": 16,
+                            "height": 72,
+                            "lineHeight": "24px",
+                            "muiPrepared": true,
+                            "position": "relative",
+                            "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                            "width": 256,
+                          }
+                        }
+                      >
+                        <label
+                          className={undefined}
+                          htmlFor="companyid-undefined-CompanyID-32654"
+                          onTouchTap={undefined}
+                          style={
+                            Object {
+                              "color": "rgba(0, 0, 0, 0.3)",
+                              "lineHeight": "22px",
+                              "muiPrepared": true,
+                              "pointerEvents": "none",
+                              "position": "absolute",
+                              "top": 38,
+                              "transform": "scale(1) translate(0, 0)",
+                              "transformOrigin": "left top",
+                              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                              "userSelect": "none",
+                              "zIndex": 1,
+                            }
+                          }
+                        >
+                          Company ID
+                        </label>
+                        <input
+                          disabled={false}
+                          id="companyid-undefined-CompanyID-32654"
+                          name="companyid"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          style={
+                            Object {
+                              "WebkitOpacity": 1,
+                              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                              "appearance": "textfield",
+                              "backgroundColor": "rgba(0,0,0,0)",
+                              "border": "none",
+                              "boxSizing": "border-box",
+                              "color": "rgba(0, 0, 0, 0.87)",
+                              "cursor": "inherit",
+                              "font": "inherit",
+                              "height": "100%",
+                              "marginTop": 14,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "width": "100%",
+                            }
+                          }
+                          type="text"
+                          value={undefined}
+                        />
+                        <div>
+                          <hr
+                            aria-hidden="true"
+                            style={
+                              Object {
+                                "borderBottomStyle": "solid",
+                                "borderBottomWidth": 1,
+                                "borderColor": "#e0e0e0",
+                                "borderLeft": "none",
+                                "borderRight": "none",
+                                "borderTop": "none",
+                                "bottom": 8,
+                                "boxSizing": "content-box",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "position": "absolute",
+                                "width": "100%",
+                              }
+                            }
+                          />
+                          <hr
+                            aria-hidden="true"
+                            style={
+                              Object {
+                                "borderBottomStyle": "solid",
+                                "borderBottomWidth": 2,
+                                "borderColor": "#00bcd4",
+                                "borderLeft": "none",
+                                "borderRight": "none",
+                                "borderTop": "none",
+                                "bottom": 8,
+                                "boxSizing": "content-box",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "position": "absolute",
+                                "transform": "scaleX(0)",
+                                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                "width": "100%",
+                              }
+                            }
+                          />
+                        </div>
+                      </div>
+                      <br />
+                      <div
+                        className={undefined}
+                        style={
+                          Object {
+                            "backgroundColor": "transparent",
+                            "cursor": "auto",
+                            "display": "inline-block",
+                            "fontFamily": "Roboto, sans-serif",
+                            "fontSize": 16,
+                            "height": 72,
+                            "lineHeight": "24px",
+                            "muiPrepared": true,
+                            "position": "relative",
+                            "transition": "height 200ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                            "width": 256,
+                          }
+                        }
+                      >
+                        <label
+                          className={undefined}
+                          htmlFor="address-undefined-EnterAddress-754"
+                          onTouchTap={undefined}
+                          style={
+                            Object {
+                              "color": "rgba(0, 0, 0, 0.3)",
+                              "lineHeight": "22px",
+                              "muiPrepared": true,
+                              "pointerEvents": "none",
+                              "position": "absolute",
+                              "top": 38,
+                              "transform": "scale(1) translate(0, 0)",
+                              "transformOrigin": "left top",
+                              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                              "userSelect": "none",
+                              "zIndex": 1,
+                            }
+                          }
+                        >
+                          Enter Address
+                        </label>
+                        <input
+                          disabled={false}
+                          id="address-undefined-EnterAddress-754"
+                          name="address"
+                          onBlur={[Function]}
+                          onChange={[Function]}
+                          onFocus={[Function]}
+                          style={
+                            Object {
+                              "WebkitOpacity": 1,
+                              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                              "appearance": "textfield",
+                              "backgroundColor": "rgba(0,0,0,0)",
+                              "border": "none",
+                              "boxSizing": "border-box",
+                              "color": "rgba(0, 0, 0, 0.87)",
+                              "cursor": "inherit",
+                              "font": "inherit",
+                              "height": "100%",
+                              "marginTop": 14,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "width": "100%",
+                            }
+                          }
+                          type="text"
+                          value={undefined}
+                        />
+                        <div>
+                          <hr
+                            aria-hidden="true"
+                            style={
+                              Object {
+                                "borderBottomStyle": "solid",
+                                "borderBottomWidth": 1,
+                                "borderColor": "#e0e0e0",
+                                "borderLeft": "none",
+                                "borderRight": "none",
+                                "borderTop": "none",
+                                "bottom": 8,
+                                "boxSizing": "content-box",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "position": "absolute",
+                                "width": "100%",
+                              }
+                            }
+                          />
+                          <hr
+                            aria-hidden="true"
+                            style={
+                              Object {
+                                "borderBottomStyle": "solid",
+                                "borderBottomWidth": 2,
+                                "borderColor": "#00bcd4",
+                                "borderLeft": "none",
+                                "borderRight": "none",
+                                "borderTop": "none",
+                                "bottom": 8,
+                                "boxSizing": "content-box",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "position": "absolute",
+                                "transform": "scaleX(0)",
+                                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                "width": "100%",
+                              }
+                            }
+                          />
+                        </div>
+                      </div>
+                      <br />
+                      <br />
+                      <br />
+                      <div
+                        className="col-sm-2"
+                      >
+                        <div
+                          className={undefined}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                              "backgroundColor": "#ffffff",
+                              "borderRadius": 2,
+                              "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+                                     0 1px 4px rgba(0, 0, 0, 0.12)",
+                              "boxSizing": "border-box",
+                              "color": "rgba(0, 0, 0, 0.87)",
+                              "display": "inline-block",
+                              "fontFamily": "Roboto, sans-serif",
+                              "minWidth": 88,
+                              "muiPrepared": true,
+                              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                            }
+                          }
+                        >
+                          <button
+                            disabled={false}
+                            href={undefined}
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onFocus={[Function]}
+                            onKeyDown={[Function]}
+                            onKeyUp={[Function]}
+                            onMouseDown={[Function]}
+                            onMouseEnter={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchStart={[Function]}
+                            onTouchTap={[Function]}
+                            style={
+                              Object {
+                                "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                                "backgroundColor": "#ffffff",
+                                "border": 10,
+                                "borderRadius": 2,
+                                "boxSizing": "border-box",
+                                "cursor": "pointer",
+                                "display": "inline-block",
+                                "fontFamily": "Roboto, sans-serif",
+                                "fontSize": "inherit",
+                                "fontWeight": "inherit",
+                                "height": 36,
+                                "lineHeight": "36px",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "outline": "none",
+                                "padding": 0,
+                                "position": "relative",
+                                "textAlign": "center",
+                                "textDecoration": "none",
+                                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                "verticalAlign": null,
+                                "width": "100%",
+                                "zIndex": 1,
+                              }
+                            }
+                            tabIndex={0}
+                            type="button"
+                          >
+                            <div
+                              onMouseDown={[Function]}
+                              onMouseLeave={[Function]}
+                              onMouseUp={[Function]}
+                              onTouchEnd={[Function]}
+                              onTouchStart={[Function]}
+                            >
+                              <div
+                                style={
+                                  Object {
+                                    "backgroundColor": false,
+                                    "borderRadius": 2,
+                                    "height": 36,
+                                    "muiPrepared": true,
+                                    "top": 0,
+                                    "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                  }
+                                }
+                              >
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "rgba(0, 0, 0, 0.87)",
+                                      "fontSize": 14,
+                                      "fontWeight": 500,
+                                      "letterSpacing": 0,
+                                      "margin": 0,
+                                      "muiPrepared": true,
+                                      "opacity": 1,
+                                      "paddingLeft": 16,
+                                      "paddingRight": 16,
+                                      "position": "relative",
+                                      "textTransform": "uppercase",
+                                      "userSelect": "none",
+                                    }
+                                  }
+                                >
+                                  Reset
+                                </span>
+                              </div>
+                            </div>
+                          </button>
+                        </div>
+                      </div>
+                      <div
+                        className="col-sm-5"
+                      />
+                      <div
+                        className="col-sm-2"
+                      >
+                        <div
+                          className={undefined}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+                              "backgroundColor": "#ffffff",
+                              "borderRadius": 2,
+                              "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+                                     0 1px 4px rgba(0, 0, 0, 0.12)",
+                              "boxSizing": "border-box",
+                              "color": "rgba(0, 0, 0, 0.87)",
+                              "display": "inline-block",
+                              "fontFamily": "Roboto, sans-serif",
+                              "minWidth": 88,
+                              "muiPrepared": true,
+                              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                            }
+                          }
+                        >
+                          <button
+                            disabled={false}
+                            href={undefined}
+                            onBlur={[Function]}
+                            onClick={[Function]}
+                            onFocus={[Function]}
+                            onKeyDown={[Function]}
+                            onKeyUp={[Function]}
+                            onMouseDown={[Function]}
+                            onMouseEnter={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchStart={[Function]}
+                            onTouchTap={[Function]}
+                            style={
+                              Object {
+                                "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                                "backgroundColor": "#ffffff",
+                                "border": 10,
+                                "borderRadius": 2,
+                                "boxSizing": "border-box",
+                                "cursor": "pointer",
+                                "display": "inline-block",
+                                "fontFamily": "Roboto, sans-serif",
+                                "fontSize": "inherit",
+                                "fontWeight": "inherit",
+                                "height": 36,
+                                "lineHeight": "36px",
+                                "margin": 0,
+                                "muiPrepared": true,
+                                "outline": "none",
+                                "padding": 0,
+                                "position": "relative",
+                                "textAlign": "center",
+                                "textDecoration": "none",
+                                "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                "verticalAlign": null,
+                                "width": "100%",
+                                "zIndex": 1,
+                              }
+                            }
+                            tabIndex={0}
+                            type="button"
+                          >
+                            <div
+                              onMouseDown={[Function]}
+                              onMouseLeave={[Function]}
+                              onMouseUp={[Function]}
+                              onTouchEnd={[Function]}
+                              onTouchStart={[Function]}
+                            >
+                              <div
+                                style={
+                                  Object {
+                                    "backgroundColor": false,
+                                    "borderRadius": 2,
+                                    "height": 36,
+                                    "muiPrepared": true,
+                                    "top": 0,
+                                    "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                  }
+                                }
+                              >
+                                <span
+                                  style={
+                                    Object {
+                                      "color": "rgba(0, 0, 0, 0.87)",
+                                      "fontSize": 14,
+                                      "fontWeight": 500,
+                                      "letterSpacing": 0,
+                                      "margin": 0,
+                                      "muiPrepared": true,
+                                      "opacity": 1,
+                                      "paddingLeft": 16,
+                                      "paddingRight": 16,
+                                      "position": "relative",
+                                      "textTransform": "uppercase",
+                                      "userSelect": "none",
+                                    }
+                                  }
+                                >
+                                  ADD
+                                </span>
+                              </div>
+                            </div>
+                          </button>
+                        </div>
+                      </div>
+                      <br />
+                    </form>
+                  </form>
+                </div>
+              </div>
+              <br />
+              <br />
+            </fieldset>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-1"
+      />
+      <div
+        className="col-sm-1"
+      />
+      <div
+        className="col-sm-8"
+      />
+      <div
+        className="col-sm-1"
+      >
+        <button
+          className="btn"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundColor": "DodgerBlue ",
+            }
+          }
+          type="button"
+        >
+           
+          Save
+           
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
